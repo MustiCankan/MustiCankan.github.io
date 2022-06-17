@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c00de1e4.css",
+    "main.js": "/static/js/main.f5956842.js",
+    "static/media/agalar.JPG": "/static/media/agalar.1f335bbd6aa39a470e62.JPG",
+    "index.html": "/index.html",
+    "main.c00de1e4.css.map": "/static/css/main.c00de1e4.css.map",
+    "main.f5956842.js.map": "/static/js/main.f5956842.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c00de1e4.css",
+    "static/js/main.f5956842.js"
+  ]
+}
